@@ -38,8 +38,6 @@
 
 ## Advanced Projects (Course Exclusive)
 
-[Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
-
 16. Markdown Preview
 17. Random Person
 18. Pagination
