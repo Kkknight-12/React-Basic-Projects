@@ -36,7 +36,7 @@
 
 15. Cocktails
 
-## Advanced Projects (Course Exclusive)
+## Advanced Projects 
 
 16. Markdown Preview
 17. Random Person
